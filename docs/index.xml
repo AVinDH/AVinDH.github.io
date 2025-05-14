@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome! on AudioVisual &amp; Digital Humanities</title>
+    <link>https://avindh.org/</link>
+    <description>Recent content in Welcome! on AudioVisual &amp; Digital Humanities</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 14 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://avindh.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://avindh.org/about/</link>
+      <pubDate>Wed, 14 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://avindh.org/about/</guid>
+      <description>&lt;p&gt;During the DH2014 conference in Lausanne a group of researchers from the Erasmus Studio based at the Erasmus University in Rotterdam, and the Netherlands Institute for Sound and Vision organized a workshop (AVinDH) to assess strategies on how to expand the role of audiovisual media in the field of Digital Humanities. Attendance was high (33 researchers from diverse fields of study) and topics that were discussed encompassed the whole spectrum of audiovisual research practices: photography, film, television, radio, oral history, sound, social media, search technology and infrastructures. The presentations addressed a number of key questions of which the answer is expected to come from digital technology:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Resources</title>
+      <link>https://avindh.org/resources/</link>
+      <pubDate>Wed, 14 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://avindh.org/resources/</guid>
+      <description>&lt;p&gt;We are planning to build and maintain a set of resources for AVinDH as part of our 2025 workshop in Lisbon. Look for more details soon!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Workshop at ADHO DH 2025, Lisbon, Portugal</title>
+      <link>https://avindh.org/workshops/2025/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://avindh.org/workshops/2025/</guid>
+      <description>&lt;p&gt;The theme of the DH2025 emphasizes openness and accessibility of&#xA;scholarly knowledge. Following this idea, the AVinDH SIG invites all the&#xA;interested parties &amp;ndash; from complete novices to hard core wizards &amp;ndash; to&#xA;join our workshop to discuss the present status and future avenues of&#xA;research on AV materials within the DH.&lt;/p&gt;&#xA;&lt;p&gt;All DH2025 attendees are welcome to join. One does not have to be a&#xA;member of the AVinDH SIG, although we would be delighted to have you&#xA;join our mailing list&#xA;&lt;a href=&#34;https://groups.google.com/u/2/g/avindh?pli=1&#34;&gt;here&lt;/a&gt;!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Workshop at ADHO DH 2024, Washington D.C.</title>
+      <link>https://avindh.org/workshops/2024/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://avindh.org/workshops/2024/</guid>
+      <description>&lt;p&gt;DH2024&amp;rsquo;s theme &amp;ldquo;Reinvention &amp;amp; Responsibility&amp;rdquo; focuses on reinventing our&#xA;selves and methods to better responsibly connect with the communities&#xA;around us. In accordance, the AVinDH SIG embraces this spirit of&#xA;Reinvention and Responsibility by bringing together those interested in&#xA;analyzing AV materials, and exploring ways that we can study these&#xA;materials anew,reflect on and connect with our Digital Humanities&#xA;communities broadly conceived. This workshop will take place on Tuesday,&#xA;August 6th, 2024.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Workshop at ADHO DH 2023, Graz</title>
+      <link>https://avindh.org/workshops/2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://avindh.org/workshops/2023/</guid>
+      <description>&lt;p&gt;DH2023&amp;rsquo;s theme &amp;ldquo;Collaboration as Opportunity&amp;rdquo; focuses on&#xA;transdisciplinary and transnational collaboration, asking to explore how&#xA;mutual empowerment and collaboration can transform regional hubs of&#xA;expertise to international networks of excellent research, to the&#xA;benefit of the global DH community. This workshop will take place on&#xA;Tuesday, July 11th, 2023.&lt;/p&gt;&#xA;&lt;p&gt;The AVinDH SIG Workshop will bring together DH scholars interested in&#xA;analyzing AV materials. All DH2023 attendees are welcome to join. One&#xA;does not have to be a member of the AVinDH SIG, although we would be&#xA;delighted to have you join our mailing list here!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Workshop at ADHO DH 2022, Tokyo</title>
+      <link>https://avindh.org/workshops/2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://avindh.org/workshops/2022/</guid>
+      <description>&lt;h3 id=&#34;organizers&#34;&gt;&lt;strong&gt;Organizers:&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Stuart James, Mathieu Aubry, Nanne van Noord, Noa Garcia, Leonardo&#xA;Impett&lt;/p&gt;&#xA;&lt;h3 id=&#34;time-in-jst-and-utc&#34;&gt;&lt;strong&gt;Time (in JST and UTC):&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;July 25 18:00-21:30 (JST)&lt;/p&gt;&#xA;&lt;p&gt;July 25 9:00-12:30 (UTC)&lt;/p&gt;&#xA;&lt;h3 id=&#34;description&#34;&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;In this tutorial, we aim to provide insights into how Computer Vision (CV) methods can be used to enhance study within the Digital Humanities (DH). In contrast to the digitization use of CV, we focus on the interpretation of the content that can be used for distant reading. We cover four State-of-the-Art research problems within CV that are being applied to both art and cultural heritage visual data, then considering how CV methods are being applied to answer DH questions. The tutorial brings together four CV and one DH academics with extensive experience in applying CV to DH.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Workshop at ADHO DH 2019, Utrecht</title>
+      <link>https://avindh.org/workshops/2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://avindh.org/workshops/2019/</guid>
+      <description>&lt;p&gt;DH2019&amp;rsquo;s theme Complexities asks the field &amp;ldquo;to focus on DH as the&#xA;humanist way of building complex models of complex realities, analysing&#xA;them with computational methods and communicating the results to a&#xA;broader public.&amp;rdquo; Understanding the diversity of the human experience&#xA;means turning to diverse sources, which includes the different forms in&#xA;which people produce knowledge and communicate ways of knowing. One way&#xA;that people make and communicate meaning is through audio and visuals.&#xA;Forms such as drawing, film, and radio construct, convey, and circulate&#xA;our complexities including beliefs, values, and histories. Analyzing&#xA;these forms has become an increased object of study within DH; a field&#xA;which has traditionally focused on text. With this move from the&#xA;periphery to the center of audio and visual (AV), scholars are turning&#xA;to computational methods to increase the discovery, analysis, and&#xA;accessibility of AV materials.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Workshop at ADHO DH 2018, Mexico City</title>
+      <link>https://avindh.org/workshops/2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://avindh.org/workshops/2018/</guid>
+      <description>&lt;p&gt;At the &lt;a href=&#34;https://dh2018.adho.org/&#34;&gt;DH2018 Conference&lt;/a&gt; in Mexico a workshop is schedules that has been endorsed by the AVinDH SIG: Distant Viewing with Deep Learning: An Introduction to Analyzing Large Corpora of Images. The workshop will be led by Taylor Arnold &amp;amp; Lauren Tilton (University of Richmond, USA).&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; Tuesday 26 June (9:00-12:30)&lt;br&gt;&#xA;&lt;strong&gt;Info in Conftool:&lt;/strong&gt; &lt;a href=&#34;https://www.conftool.pro/dh2018/index.php?page=browseSessions&amp;amp;form_session=274&amp;amp;presentations=show&#34;&gt;WS-12&lt;/a&gt;&lt;br&gt;&#xA;&lt;strong&gt;Location:&lt;/strong&gt; &lt;a href=&#34;https://www.conftool.pro/dh2018/index.php?page=browseSessions&amp;amp;form_room=15&amp;amp;presentations=show&#34;&gt;Imperio&#xA;B&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Short description:&lt;/strong&gt;&lt;br&gt;&#xA;The tutorial provides a hands-on introduction to the use of deep&#xA;learning techniques in the study of large image corpora. Image analysis tasks covered in the tutorial include object detection, facial recognition, image similarity, and image clustering. We will make three open-access image corpora (historic photographs, still frames from moving images, and scanned works of art) available to test these methods. Alternatively, participants may bring and use an image dataset of interest to them. This tutorial is aimed at scholars who work with visual materials who want to integrate DH methods into their analysis of image corpora. No prior programming experience is required.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Workshop at ADHO DH 2017, Montréal</title>
+      <link>https://avindh.org/workshops/2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://avindh.org/workshops/2017/</guid>
+      <description>&lt;p&gt;During the DH2017 conference in Montreal, the AVinDH SIG will organize&#xA;it&amp;rsquo;s third workshop on Monday 7 August 2017. This year&amp;rsquo;s theme will be&#xA;&lt;strong&gt;Computer Vision in Digital Humanities&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;This workshop will focus on how computer vision can be applied within the realm of Audiovisual Materials in Digital Humanities. During the workshop, attendees will both present (ongoing) work on applying computer vision and experiment with computer vision in their own work in a hands-on session.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Workshop at ADHO DH 2016, Kraków</title>
+      <link>https://avindh.org/workshops/2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://avindh.org/workshops/2016/</guid>
+      <description>&lt;p&gt;During the &lt;a href=&#34;http://dh2016.adho.org&#34;&gt;DH2016 conference in Krakow&lt;/a&gt;, the AVinDH SIG organised a workshop with the theme &amp;lsquo;Audiovisual Data and Digital Scholarship: Towards Multimodal Literacy&amp;rsquo;. The workshop took place Tuesday 12 July in the MAM / Aula Mala / Small Auditorium of the main &lt;a href=&#34;http://dh2016.adho.org/venue/&#34;&gt;Conference Venue&lt;/a&gt;, the Auditorium Maximum, ul. Krupnicza 33.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Workshop at ADHO DH 2014, Lausanne</title>
+      <link>https://avindh.org/workshops/2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://avindh.org/workshops/2014/</guid>
+      <description>&lt;p&gt;During the DH2014 conference in Lausanne, the first workshop on Audiovisual Materials in Digital Humanities was organised. A wrap up of this workshop can be read below.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Workshop Wrap-up&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;During the DH2014 conference in Lausanne held from 8th to 12th of July the Erasmus Studio, based at the Erasmus School for History, Culture and Communication in Rotterdam, organised a workshop to assess strategies on how to expand the role of audiovisual media in the field of Digital Humanities. Below is a wrap-up written by Stef Scagliola.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

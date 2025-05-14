@@ -1,0 +1,13 @@
+{{ define "main" }}
+  <div class="container page-content">
+    {{ if eq .Section "conferences" }}
+      <div class="breadcrumbs">
+        <a href="/conferences/">Conferences</a> &raquo; {{ .Title }}
+      </div>
+    {{ end }}
+    
+    <h1>{{ .Title }}</h1>
+    {{ .Content }}
+  </div>
+{{ end }}
+

@@ -1,0 +1,17 @@
+{{ define "main" }}
+  <div class="container page-content">
+    <h1>{{ .Title }}</h1>
+    {{ .Content }}
+    
+    {{ if eq .Section "conferences" }}
+      <ul class="conference-list">
+        {{ range .Pages }}
+          <li>
+            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+            <p>{{ .Summary }}</p>
+          </li>
+        {{ end }}
+      </ul>
+    {{ end }}
+  </div>
+{{ end }}

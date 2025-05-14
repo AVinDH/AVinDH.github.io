@@ -1,0 +1,36 @@
+baseURL = "https://avindh.org/"
+languageCode = "en-us"
+title = "AudioVisual & Digital Humanities"
+disableKinds = ["taxonomy"]
+publishDir = "docs/"
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 2
+  [[menu.main]]
+    identifier = "resources"
+    name = "Resources"
+    url = "/resources/"
+    weight = 3
+  [[menu.main]]
+    identifier = "activities"
+    name = "Activities"
+    url = "/workshops/"
+    weight = 4
+  [[menu.main]]
+    identifier = "join"
+    name = "Join"
+    url = "https://groups.google.com/g/avindh"
+    weight = 5
+    [menu.main.params]
+      external = true
+      target = "_blank"
+      rel = "noopener noreferrer"

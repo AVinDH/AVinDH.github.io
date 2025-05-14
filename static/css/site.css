@@ -1,0 +1,24 @@
+:root {
+  --bulma-link-h: 183deg;
+  --bulma-link-s: 32.7%;
+  --bulma-link-l: 60.2%;
+  --bulma-family-primary: "Fira Sans";
+}
+
+p {
+  text-align: justify !important;
+}
+
+li {
+  text-align: justify !important;
+}
+
+.navbar-item.is-active, .navbar-item a.is-active {
+  --bulma-navbar-h: var(--bulma-link-h);
+  --bulma-navbar-s: var(--bulma-link-s);
+  background-color: hsl(var(--bulma-link-h), var(--bulma-link-s), 75%) !important;
+}
+
+.navbar-item, .navbar-link {
+  cursor: pointer !important;
+}
