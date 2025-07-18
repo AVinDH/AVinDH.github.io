@@ -114,7 +114,6 @@ draft: false
 - [PHALP](https://github.com/brjathu/PHALP)
 - [QWEN](https://chat.qwen.ai/)
 - [TiLiA](https://tilia-app.com/)
-- [Touch Designer](Touch Designer)
 - [Transformers.js](https://huggingface.co/docs/transformers.js/index)
 - [VideoLLAMA](https://github.com/DAMO-NLP-SG/Video-LLaMA)
 - [Voyant Tools](https://voyant-tools.org/)
