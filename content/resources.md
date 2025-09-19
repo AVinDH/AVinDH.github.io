@@ -88,7 +88,6 @@ draft: false
 - [Social Sciences & Humanities Open Marketplace](https://marketplace.sshopencloud.eu/)
 - [Stackoverflow](https://stackoverflow.com/questions)
 - [tapor.ca](https://tapor.ca/home)
-- [The Programming Historian]- [The Programming Historian]- [The Programming Histp- [The Programming Historian]- [The Programmps:- [The Programming Historian]- [The Programming Historian]- [The ite- [The Programming Historian]- [(h- [The Programming Historian]- [The Programming Hist://- [The Programming Historian]- [The Programmf.- [The Programming Historian]- [Tt.app/fr)
 - [Zee Schuimer](https://github.com/digitalmethodsinitiative/zeeschuimer)
 
 **Tools**
@@ -96,6 +95,7 @@ draft: false
 - [AntConc](https://www.laurenceanthony.net/software/antconc/)
 - [AVAnnotate](https://av-annotate.org/)
 - [blender](https://www.blender.org/download/)
+- [Celluloid](https://github.com/celluloid-camp/)
 - [ChatGPT](https://chatgpt.com/)
 - [Claude](https://claude.ai/)
 - [Collection Space Navigator](https://collection-space-navigator.github.io/)
