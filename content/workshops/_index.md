@@ -10,10 +10,11 @@ The AVinDH Special Interest Group organizes workshops at the annual ADHO Digital
 
 ## Upcoming Workshops
 
-- [Workshop at ADHO DH 2025, Lisbon, Portugal](/workshops/2025/)
+- [Workshop at ADHO DH 2026, Daejeon, South Korea](/workshops/2026/)
 
 ## Past Workshops
 
+- [Workshop at ADHO DH 2025, Lisbon, Portugal](/workshops/2025/)
 - [Workshop at ADHO DH 2024, Washington D.C.](/workshops/2024/)
 - [Workshop at ADHO DH 2023, Graz](/workshops/2023/)
 - [Workshop at ADHO DH 2022, Tokyo](/workshops/2022/)
