@@ -19,13 +19,26 @@
       <div class="navbar-start">
         {{ $currentPage := . }}
         {{ range .Site.Menus.main }}
-          {{ if eq .Name "Activities" }}
+          {{ if eq .Identifier "annual-adho-conference-workshops" }}
             <div class="navbar-item has-dropdown is-hoverable">
-              <a class="navbar-link{{ if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) (eq $currentPage.Section "workshops") }} is-active{{ end }}">
+              <a class="navbar-link{{ if hasPrefix $currentPage.RelPermalink .URL }} is-active{{ end }}">
                 {{ .Name }}
               </a>
               <div class="navbar-dropdown">
-                {{ range where $.Site.RegularPages "Section" "workshops" }}
+                {{ range sort (where $.Site.RegularPages "Section" "annual-adho-conference-workshops") "Date" "desc" }}
+                  <a class="navbar-item{{ if eq $currentPage.RelPermalink .RelPermalink }} is-active{{ end }}" href="{{ .RelPermalink }}">
+                    {{ .Title }}
+                  </a>
+                {{ end }}
+              </div>
+            </div>
+          {{ else if eq .Identifier "year-round-workshops" }}
+            <div class="navbar-item has-dropdown is-hoverable">
+              <a class="navbar-link{{ if hasPrefix $currentPage.RelPermalink .URL }} is-active{{ end }}">
+                {{ .Name }}
+              </a>
+              <div class="navbar-dropdown">
+                {{ range sort (where $.Site.RegularPages "Section" "year-round-workshops") "Date" "desc" }}
                   <a class="navbar-item{{ if eq $currentPage.RelPermalink .RelPermalink }} is-active{{ end }}" href="{{ .RelPermalink }}">
                     {{ .Title }}
                   </a>
@@ -33,7 +46,7 @@
               </div>
             </div>
           {{ else }}
-            <a class="navbar-item{{ if or ($currentPage.IsMenuCurrent "main" .) (and (eq $currentPage.RelPermalink .URL) (ne .URL "/")) }} is-active{{ end }}" href="{{ .URL }}">
+            <a class="navbar-item{{ if or ($currentPage.IsMenuCurrent "main" .) (and (hasPrefix $currentPage.RelPermalink .URL) (ne .URL "/")) }} is-active{{ end }}" href="{{ .URL }}">
               {{ .Name }}
             </a>
           {{ end }}

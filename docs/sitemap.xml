@@ -2,7 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://avindh.org/workshops/2026/</loc>
+    <loc>https://avindh.org/year-round-workshops/2026-online-workshop-series/</loc>
+    <lastmod>2026-05-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://avindh.org/annual-adho-conference-workshops/2026/</loc>
     <lastmod>2026-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://avindh.org/about/</loc>
@@ -14,34 +17,31 @@
     <loc>https://avindh.org/</loc>
     <lastmod>2025-05-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://avindh.org/workshops/</loc>
-    <lastmod>2025-05-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://avindh.org/workshops/2025/</loc>
+    <loc>https://avindh.org/annual-adho-conference-workshops/2025/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://avindh.org/workshops/2024/</loc>
+    <loc>https://avindh.org/annual-adho-conference-workshops/2024/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://avindh.org/workshops/2023/</loc>
+    <loc>https://avindh.org/annual-adho-conference-workshops/2023/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://avindh.org/workshops/2022/</loc>
+    <loc>https://avindh.org/annual-adho-conference-workshops/2022/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://avindh.org/workshops/2019/</loc>
+    <loc>https://avindh.org/annual-adho-conference-workshops/2019/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://avindh.org/workshops/2018/</loc>
+    <loc>https://avindh.org/annual-adho-conference-workshops/2018/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://avindh.org/workshops/2017/</loc>
+    <loc>https://avindh.org/annual-adho-conference-workshops/2017/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://avindh.org/workshops/2016/</loc>
+    <loc>https://avindh.org/annual-adho-conference-workshops/2016/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://avindh.org/workshops/2014/</loc>
+    <loc>https://avindh.org/annual-adho-conference-workshops/2014/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url>
 </urlset>
