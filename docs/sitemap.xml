@@ -2,9 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://avindh.org/about/</loc>
-    <lastmod>2026-05-29T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://avindh.org/about/charter-statement/</loc>
     <lastmod>2026-05-29T00:00:00+00:00</lastmod>
   </url><url>
@@ -13,6 +10,9 @@
   </url><url>
     <loc>https://avindh.org/annual-adho-conference-workshops/2026/</loc>
     <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://avindh.org/about/</loc>
+    <lastmod>2025-05-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://avindh.org/resources/</loc>
     <lastmod>2025-05-14T00:00:00+00:00</lastmod>
