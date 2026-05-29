@@ -19,7 +19,21 @@
       <div class="navbar-start">
         {{ $currentPage := . }}
         {{ range .Site.Menus.main }}
-          {{ if eq .Identifier "annual-adho-conference-workshops" }}
+          {{ if eq .Identifier "about" }}
+            <div class="navbar-item has-dropdown is-hoverable">
+              <a class="navbar-link{{ if or (eq $currentPage.RelPermalink .URL) (hasPrefix $currentPage.RelPermalink "/about/") }} is-active{{ end }}" href="{{ .URL }}">
+                {{ .Name }}
+              </a>
+              <div class="navbar-dropdown">
+                <a class="navbar-item{{ if eq $currentPage.RelPermalink .URL }} is-active{{ end }}" href="{{ .URL }}">About AVinDH</a>
+                {{ range sort (where $.Site.RegularPages "Section" "about") "Title" }}
+                  <a class="navbar-item{{ if eq $currentPage.RelPermalink .RelPermalink }} is-active{{ end }}" href="{{ .RelPermalink }}">
+                    {{ .Title }}
+                  </a>
+                {{ end }}
+              </div>
+            </div>
+          {{ else if eq .Identifier "annual-adho-conference-workshops" }}
             <div class="navbar-item has-dropdown is-hoverable">
               <a class="navbar-link{{ if hasPrefix $currentPage.RelPermalink .URL }} is-active{{ end }}">
                 {{ .Name }}

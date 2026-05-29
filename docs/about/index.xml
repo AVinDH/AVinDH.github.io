@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on AudioVisual &amp; Digital Humanities</title>
+    <link>https://avindh.org/about/</link>
+    <description>Recent content in Abouts on AudioVisual &amp; Digital Humanities</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 29 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://avindh.org/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AVinDH Charter Statement</title>
+      <link>https://avindh.org/about/charter-statement/</link>
+      <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://avindh.org/about/charter-statement/</guid>
+      <description>&lt;a href=&#34;https://avindh.org/files/AVinDH_CharterStatement_2026.pdf&#34; download&gt;Download the AVinDH Charter Statement 2026 PDF&lt;/a&gt;&#xA;&#xA;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;The Audio/Visual Studies in Digital Humanities (AVinDH) Special Interest Group is part of the Alliance of Digital Humanities Organizations (ADHO).&lt;/p&gt;&#xA;&lt;p&gt;The purpose of AVinDH SIG is to exchange knowledge, expertise, methods and tools by scholars and practitioners who study, use or produce audiovisual media using digital and computational tools, mainly but not limited to film, television and online video.&lt;/p&gt;&#xA;&lt;p&gt;The SIG facilitates communication and interaction between disciplines and domains, namely film and media studies; visual culture broadly understood, including art and art history, photography, graphics and design; history and screen heritage, including cultural and media history, archives and preservation science; computer science and informatics, including computer vision, computational music, computational creativity and design; cultural analytics and informatics; and computational social science. We welcome participation from ADHO members from all career stages.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
