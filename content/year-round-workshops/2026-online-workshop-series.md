@@ -10,7 +10,7 @@ Designed as an open and collaborative forum, the series creates opportunities fo
 
 The online workshop series extends the conversations and collaborations that emerge from annual in-person conference meetings, making them accessible throughout the year. Thanks to its online format, participants from around the world can join regardless of location, contributing to the international community of practice. To ensure continued access and engagement, recordings of all events are also made available for later viewing.
 
-If you would like to present a tool, share a dataset or method, or discuss a pressing topic with us, please contact: [mila.oiva@fau.de](mailto:mila.oiva@fau.de), [estelle.gueville@yale.edu](mailto:estelle.gueville@yale.edu), [erwin.feyersinger@uni-tuebingen.de](mailto:erwin.feyersinger@uni-tuebingen.de), and [Sabeela Rasheed](mailto:contact.sabeela@gmail.com).
+If you would like to present a tool, share a dataset or method, or discuss a pressing topic with us, please contact: [Mila Oiva](mailto:mila.oiva@fau.de), [Estelle Guéville](mailto:estelle.gueville@yale.edu), [Erwin Feyersinger](mailto:erwin.feyersinger@uni-tuebingen.de), and [Sabeela Rasheed](mailto:contact.sabeela@gmail.com).
 
 # Upcoming Events
 
