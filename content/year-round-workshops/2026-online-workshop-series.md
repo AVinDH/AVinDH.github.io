@@ -41,3 +41,7 @@ In this workshop, we will learn some of the technical specifics of the Synthetic
 Datascene (VAA1) is a research-led multimodal intelligence platform that transforms audiovisual material into structured, searchable, and traceable knowledge. Designed for archives, research institutions, media organizations, and the creative sector, Datascene helps to unlock the analytical, cultural, and strategic value of video by turning recordings, broadcasts, interviews, performances, and audiovisual collections into reusable institutional intelligence. Rather than replacing human interpretation, Datascene strengthens it through evidence-linked analysis, semantic metadata, and research-grade traceability.
 
 Team: Social Data Sciences PhD Researcher [Petteri Laine](mailto:Petteri.Laine@helsinki.fi); Docent of History of Social Sciences, [Jukka Kortti](mailto:Jukka.Kortti@helsinki.fi); Social Psychology PhD researcher [Reko Elovainio](mailto:Reko.Elovainio@helsinki.fi).
+
+### Recording
+
+{{< youtube eSNyHcyWB40 >}}
