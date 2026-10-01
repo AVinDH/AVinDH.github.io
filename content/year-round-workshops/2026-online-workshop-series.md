@@ -22,6 +22,11 @@ If you would like to present a tool, share a dataset or method, or discuss a pre
 
 [Celluloid](https://celluloid.me/) is a free and open-source collaborative video annotation tool designed for research and teaching in the humanities and social sciences. It forms part of an ecosystem of online interoperable apps that enables researchers to manage every stage of their project: hosting the video corpora, analysis, sharing and, finally, publishing of results. In this workshop, we will present the structure of this ecosystem, within the framework of the CANEVAS consortium, and offer participants the opportunity to test these tools in practice.
 
+**Presenters:**
+
+- Michaël Bourgatte, Professor, Mediations Research Center (CREM), University of Lorraine
+- Anatole Grimaldi, PhD Researcher, Information & Communication Sciences, CREM, University of Lorraine
+
 
 ## Hybrid Workflows for Audio-Visual Analysis using VIAN and TIB AV-Analytics
 
@@ -31,6 +36,24 @@ If you would like to present a tool, share a dataset or method, or discuss a pre
 
 VIAN and TIB AV-Analytics (TIB-AV-A) are two complementary open-source platforms for analysing audio-visual (AV) media, from feature films and newsreels to television and social media videos. TIB-AV-A gives researchers low-threshold access to a wide range of AI-based methods, while VIAN focuses on manual annotation, allowing researchers to intervene in automated analysis pipelines by checking, correcting and contextualising their results. Both platforms are designed for high interoperability, enabling hybrid workflows that systematically bridge the gap between interpretive AV research and AI-based analysis. In this presentation, we introduce both platforms and discuss what their combination offers for AV research in the digital humanities.
 
+**Presenters:**
+
+- Dr. Josephine Diecke, Universität Zürich, Switzerland
+- Dr. Eric Müller-Budack, Leibniz Information Centre for Science and Technology, Germany.
+
+
+## Amplifying Audio & Video in Research and Teaching: Curating Digital Audiovisual Exhibits and Editions with AVAnnotate
+
+**Friday, October 30, 2026, 4:00 p.m. CEST**
+
+[Registration link](https://yale.zoom.us/meeting/register/Jyxoxw75RzqC2RZBwfVKqw)
+
+This workshop is for researchers who work with audiovisual (AV) materials. Participants will be introduced to [AVAnnotate](https://av-annotate.org/), an open-source application and a workflow for building digital exhibits and editions with annotated AV. Designed by Dr. Tanya Clement, Brumfield Labs, and Performant Solutions, AVAnnotate is built using minimal computing principles: it is free and easy-to-use and leverages publicly-available resources such as GitHub and IIIF (International Interoperable Image Framework), making it well-suited for researchers, archivists, and librarians interested in increasing accessibility, discovery, and scholarship with AV archival collections.
+
+Scholars, students, and the public have created AVAnnotate projects to provide context for under-used and culturally sensitive historical audio and film recordings. The workshop leader will teach by introducing IIIF for AV and showcasing example AVAnnotate projects such as curated, bilingual, library collections and oral histories; peer-reviewed, scholarly publications for AV scholarship; and classroom projects, among other examples. These projects are significant case studies that demonstrate AVAnnotate approaches to developing interventions into scholarly and pedagogical practices with AV.
+
+**Presenter:** Dr. Tanya Clement, Brumfield Labs, University of Texas at Austin
+
 
 ## What the Synthetic Image Generators Can Contribute to Humanities Research
 
@@ -39,7 +62,6 @@ VIAN and TIB AV-Analytics (TIB-AV-A) are two complementary open-source platforms
 [Registration link](https://yale.zoom.us/meeting/register/cL6fddUPSba2mT-I6BY1Xw#/registration)
 
 In this workshop, we will learn some of the technical specifics of the Synthetic Image Generators, including an investigation of the current implementations of the rule-based governors on prompt input. We will then ask together what the design of these systems has to say about technologically-driven, popular desire for visual imagery in 2026.
-
 
 # Past Events
 
