@@ -14,20 +14,6 @@ If you would like to present a tool, share a dataset or method, or discuss a pre
 
 # Upcoming Events
 
-## Canevas: an open ecosystem for archiving and analysing audiovisual corpora
-
-**Friday, October 2, 2026, 4:00 p.m. CEST**
-
-[Registration link](https://yale.zoom.us/meeting/register/WQkP_AisQeaL6wtkmSe1mg#/registration)
-
-[Celluloid](https://celluloid.me/) is a free and open-source collaborative video annotation tool designed for research and teaching in the humanities and social sciences. It forms part of an ecosystem of online interoperable apps that enables researchers to manage every stage of their project: hosting the video corpora, analysis, sharing and, finally, publishing of results. In this workshop, we will present the structure of this ecosystem, within the framework of the CANEVAS consortium, and offer participants the opportunity to test these tools in practice.
-
-**Presenters:**
-
-- Michaël Bourgatte, Professor, Mediations Research Center (CREM), University of Lorraine
-- Anatole Grimaldi, PhD Researcher, Information & Communication Sciences, CREM, University of Lorraine
-
-
 ## Hybrid Workflows for Audio-Visual Analysis using VIAN and TIB AV-Analytics
 
 **Friday, October 23, 2026, 4:00 p.m. CEST**
@@ -74,3 +60,17 @@ Datascene (VAA1) is a research-led multimodal intelligence platform that transfo
 Team: Social Data Sciences PhD Researcher [Petteri Laine](mailto:Petteri.Laine@helsinki.fi); Docent of History of Social Sciences, [Jukka Kortti](mailto:Jukka.Kortti@helsinki.fi); Social Psychology PhD researcher [Reko Elovainio](mailto:Reko.Elovainio@helsinki.fi).
 
 {{< youtube eSNyHcyWB40 >}}
+
+
+## Canevas: an open ecosystem for archiving and analysing audiovisual corpora
+
+**Friday, October 2, 2026, 4:00 p.m. CEST**
+
+[Registration link](https://yale.zoom.us/meeting/register/WQkP_AisQeaL6wtkmSe1mg#/registration)
+
+[Celluloid](https://celluloid.me/) is a free and open-source collaborative video annotation tool designed for research and teaching in the humanities and social sciences. It forms part of an ecosystem of online interoperable apps that enables researchers to manage every stage of their project: hosting the video corpora, analysis, sharing and, finally, publishing of results. In this workshop, we will present the structure of this ecosystem, within the framework of the CANEVAS consortium, and offer participants the opportunity to test these tools in practice.
+
+**Presenters:**
+
+- Michaël Bourgatte, Professor, Mediations Research Center (CREM), University of Lorraine
+- Anatole Grimaldi, PhD Researcher, Information & Communication Sciences, CREM, University of Lorraine
