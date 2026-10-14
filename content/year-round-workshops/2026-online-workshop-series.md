@@ -22,6 +22,8 @@ If you would like to present a tool, share a dataset or method, or discuss a pre
 
 VIAN and TIB AV-Analytics (TIB-AV-A) are two complementary open-source platforms for analysing audio-visual (AV) media, from feature films and newsreels to television and social media videos. TIB-AV-A gives researchers low-threshold access to a wide range of AI-based methods, while VIAN focuses on manual annotation, allowing researchers to intervene in automated analysis pipelines by checking, correcting and contextualising their results. Both platforms are designed for high interoperability, enabling hybrid workflows that systematically bridge the gap between interpretive AV research and AI-based analysis. In this presentation, we introduce both platforms and discuss what their combination offers for AV research in the digital humanities.
 
+[Video Demonstration](https://service.tib.eu/tibava/)
+
 **Presenters:**
 
 - Dr. Josephine Diecke, Universität Zürich, Switzerland
