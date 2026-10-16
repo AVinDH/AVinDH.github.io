@@ -68,7 +68,6 @@ Team: Social Data Sciences PhD Researcher [Petteri Laine](mailto:Petteri.Laine@h
 
 **Friday, October 2, 2026, 4:00 p.m. CEST**
 
-[Registration link](https://yale.zoom.us/meeting/register/WQkP_AisQeaL6wtkmSe1mg#/registration)
 
 [Celluloid](https://celluloid.me/) is a free and open-source collaborative video annotation tool designed for research and teaching in the humanities and social sciences. It forms part of an ecosystem of online interoperable apps that enables researchers to manage every stage of their project: hosting the video corpora, analysis, sharing and, finally, publishing of results. In this workshop, we will present the structure of this ecosystem, within the framework of the CANEVAS consortium, and offer participants the opportunity to test these tools in practice.
 
