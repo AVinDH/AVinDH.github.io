@@ -76,3 +76,5 @@ Team: Social Data Sciences PhD Researcher [Petteri Laine](mailto:Petteri.Laine@h
 
 - Michaël Bourgatte, Professor, Mediations Research Center (CREM), University of Lorraine
 - Anatole Grimaldi, PhD Researcher, Information & Communication Sciences, CREM, University of Lorraine
+
+{{< youtube yGzoWX3hMGw >}}
